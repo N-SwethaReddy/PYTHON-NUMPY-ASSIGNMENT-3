@@ -27,6 +27,7 @@ Currently, the provided script focuses on basic image reconstruction from raw pi
    ```
 
 5. **Understanding the Output**: The script will display the reconstructed image using Matplotlib's visualization. You'll see the grayscale version of the reconstructed image.
+   
 **Optional Sample Input and Output Images:**
 For demonstration purposes, you can use sample input images and compare them with their corresponding reconstructed images. Provide sample input images in the form of text files containing pixel data, and visualize the reconstructed images using the provided script. You can include these sample images in your project directory.
 
